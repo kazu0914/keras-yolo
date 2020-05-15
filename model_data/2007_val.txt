@@ -1,0 +1,1 @@
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000020.jpg 62,47,157,302,0

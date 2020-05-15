@@ -1,0 +1,16 @@
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000016.jpg 75,63,160,306,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000015.jpg 88,75,161,210,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000014.jpg 97,51,173,229,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000013.jpg 35,55,131,193,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000012.jpg 60,85,157,215,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000011.jpg 115,42,203,187,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000010.jpg 62,50,159,307,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000009.jpg 49,42,205,264,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000008.jpg 64,59,154,278,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000007.jpg 76,41,154,196,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000006.jpg 71,56,205,189,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000005.jpg 64,69,138,212,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000004.jpg 83,53,159,287,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000003.jpg 79,64,143,252,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000002.jpg 91,53,143,173,0
+/Users/cyberbrain/Desktop/keras-yolo3-master/VOCDevkit/VOC2007/JPEGImages/000001.jpg 87,50,142,200,0

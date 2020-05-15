@@ -1,0 +1,286 @@
+{
+    "name": "item",
+    "securityToken": "item Token",
+    "sourceConnection": {
+        "name": "resized_image",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzVhNjA4MGEzMWQzZDdjYTgzOGUwMjY1OWU1YjhkMmJiOTk0YzBkNDA4NWZmZjA3MTliOGE3ODE3YzRkZDQwZGI5Y2RiYTJiNmFlZTljZTYzZTUwM2E3MDAwOTg3NDA2ZjM3NjljZGFjMDU0ZjA5MWZkZDYwNTdiNjgyNjBiN2IwYzc4MDZkNzAyNTc3MmY3MDY1NmQyMzE2ZjZmMDAwYyIsIml2IjoiZDIyNDkwNzY5YTU5NGRkNTk2ZWFkYTkwNGJlMzZkZWMyZDkzNDBmMjllOWMxYzM0In0="
+        },
+        "id": "T1LwVxcR_"
+    },
+    "targetConnection": {
+        "name": "resized_image",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOWU5NzlkMDBlZTYxNGU2YTlmMmJhNzYyYTE5MTY5NDNhM2YzYzZiMGEzMWRhODI0ZWVhZTc4N2VmZmYzOTA5M2FlN2ZkODIwZTMzMGFhNWQzNWZhOTkzNWEwM2Y5MzE0ZmZjM2UxZjA5MjBhZmYwNjAwNGVjMjBmNzBjZTQ2NjYzNmE0MjExYzZiMTk1YmUzMDQ1NmQwYzI0Nzc4NGE1NCIsIml2IjoiNjJiMDNlMjA0MzdlZTJiNGE5YWQxZTA1NDdkZGNhMTgzMzgzZmYxODQyYTAwM2Y0In0="
+        },
+        "id": "T1LwVxcR_"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "item",
+            "color": "#5db300"
+        }
+    ],
+    "id": "mGFt6YeS0",
+    "activeLearningSettings": {
+        "modelPathType": "coco",
+        "autoDetect": false,
+        "predictTag": false
+    },
+    "exportFormat": {
+        "providerType": "pascalVOC",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMjVkOTY4NzJmMjdmZTQ0OTYzMDRhOTQ1ZjE1ODM4YmY3MmY4ZWVjOThiYzg2OTBiMTU2ZDMzMzI5OWE0YjVhM2U5YTg5NmVkMzFkODc4ZTEzNTVjYzQyOTlkNGUxZWYzYWY3MTU3ODQ1OTU5ZDQ3YTJlZjdkMTNhMGE2MDVhYmIyZGVlODJhYzA3YWM2MDQ5YmI2YjgxYTY2YTI5OTNhZSIsIml2IjoiYzBlZDNhYjlhMTc3YjMyOTZjMTUxOWVmNjRjNmZkNzVkMTUzMmZhZTU5YTA5MWJkIn0="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "01ad01cc6efb9b2aab8919f549d21a38",
+    "assets": {
+        "01ad01cc6efb9b2aab8919f549d21a38": {
+            "format": "jpg",
+            "id": "01ad01cc6efb9b2aab8919f549d21a38",
+            "name": "000001.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000001.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "434601ab36798edb26a862e0e30ef877": {
+            "format": "jpg",
+            "id": "434601ab36798edb26a862e0e30ef877",
+            "name": "000002.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000002.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd6d74404defe826c2f42554ed6084c5": {
+            "format": "jpg",
+            "id": "fd6d74404defe826c2f42554ed6084c5",
+            "name": "000003.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000003.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2638b1c7b120cd59db0ed5c82650de5b": {
+            "format": "jpg",
+            "id": "2638b1c7b120cd59db0ed5c82650de5b",
+            "name": "000004.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000004.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d04aa58978ad900bff7b201f3a98d7bf": {
+            "format": "jpg",
+            "id": "d04aa58978ad900bff7b201f3a98d7bf",
+            "name": "000005.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000005.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b002118caa34a1eb9a23359234d205d7": {
+            "format": "jpg",
+            "id": "b002118caa34a1eb9a23359234d205d7",
+            "name": "000006.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000006.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8fd3741cd842b9ff29acca16a7e9cad2": {
+            "format": "jpg",
+            "id": "8fd3741cd842b9ff29acca16a7e9cad2",
+            "name": "000007.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000007.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5520e52bee164b6cd13fc92e61ed956f": {
+            "format": "jpg",
+            "id": "5520e52bee164b6cd13fc92e61ed956f",
+            "name": "000008.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000008.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7382abe380969e49e19f75d50518cae": {
+            "format": "jpg",
+            "id": "c7382abe380969e49e19f75d50518cae",
+            "name": "000009.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000009.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0dfec83e10ceb9e567fd39c7c0ce52e": {
+            "format": "jpg",
+            "id": "d0dfec83e10ceb9e567fd39c7c0ce52e",
+            "name": "000010.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000010.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6adebb4f412d214eb77ce49b0b795188": {
+            "format": "jpg",
+            "id": "6adebb4f412d214eb77ce49b0b795188",
+            "name": "000011.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000011.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a5259322d532941e57859210aa15964": {
+            "format": "jpg",
+            "id": "0a5259322d532941e57859210aa15964",
+            "name": "000012.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000012.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9ec2ea0b3a421bb1f0e19d128d2147c": {
+            "format": "jpg",
+            "id": "a9ec2ea0b3a421bb1f0e19d128d2147c",
+            "name": "000013.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000013.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f64ba5a9358ed0f5b3105bc1aab5bab7": {
+            "format": "jpg",
+            "id": "f64ba5a9358ed0f5b3105bc1aab5bab7",
+            "name": "000014.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000014.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "095a51628466253e380bdea1b089578b": {
+            "format": "jpg",
+            "id": "095a51628466253e380bdea1b089578b",
+            "name": "000015.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000015.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2e9bb06a85d52965b3cd4f05815046c": {
+            "format": "jpg",
+            "id": "c2e9bb06a85d52965b3cd4f05815046c",
+            "name": "000016.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000016.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e09e11275be8b148bcf9830b4283e93": {
+            "format": "jpg",
+            "id": "0e09e11275be8b148bcf9830b4283e93",
+            "name": "000017.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000017.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69d39e7da3c92a715709188e7c91ed51": {
+            "format": "jpg",
+            "id": "69d39e7da3c92a715709188e7c91ed51",
+            "name": "000018.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000018.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da799e646a356b94d23e7d7286d62bed": {
+            "format": "jpg",
+            "id": "da799e646a356b94d23e7d7286d62bed",
+            "name": "000019.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000019.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2bbd8752c01dc30e8014aa124eff9340": {
+            "format": "jpg",
+            "id": "2bbd8752c01dc30e8014aa124eff9340",
+            "name": "000020.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000020.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        }
+    }
+}

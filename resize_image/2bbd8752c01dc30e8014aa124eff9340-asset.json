@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2bbd8752c01dc30e8014aa124eff9340",
+        "name": "000020.jpg",
+        "path": "file:/Users/cyberbrain/Desktop/keras-yolo3-master/resize_image/000020.jpg",
+        "size": {
+            "width": 320,
+            "height": 320
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "__agR8qQV",
+            "type": "RECTANGLE",
+            "tags": [
+                "item"
+            ],
+            "boundingBox": {
+                "left": 62.06422805786133,
+                "top": 47.48675346374512,
+                "width": 95.79368591308594,
+                "height": 254.52656745910645
+            },
+            "points": [
+                {
+                    "x": 62.06422805786133,
+                    "y": 47.48675346374512
+                },
+                {
+                    "x": 157.85791397094727,
+                    "y": 47.48675346374512
+                },
+                {
+                    "x": 157.85791397094727,
+                    "y": 302.01332092285156
+                },
+                {
+                    "x": 62.06422805786133,
+                    "y": 302.01332092285156
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
